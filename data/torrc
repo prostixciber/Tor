@@ -1,0 +1,4 @@
+ClientTransportPlugin obfs2,obfs3,obfs4 exec C:\Users\Public\Downloads\Tor\Tor-master\data\obfs4proxy.exe
+Bridge obfs4 78.46.199.144:60850 E25A56004937F2AA6A7D29BE75D40ED3795F6608 cert=6Uv8tv7TKtatlCXHecScap9Vpsvi/ZVKDTLSlMXZjHs+sDMsdY6XnmBlRlptDINg/4HKDA iat-mode=0
+Bridge obfs4 51.83.249.209:28568 0C42A745DD01FE523B15B319033EE167C2209486 cert=FzpSLDhMLpzQYtDI/Rq16xPaQH3WwHVtKy+w2AjqAqNdih/eFgZR6rSmMw76genRf2FkOw iat-mode=0
+UseBridges 1
